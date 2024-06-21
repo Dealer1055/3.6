@@ -1,0 +1,16 @@
+body {
+    background-color: darkgoldenrod;
+}
+
+input {
+    font-size: larger;
+    border-radius: 20px;
+    border: 0px;
+}
+
+button {
+    font-size: large;
+    background-color: lime;
+    border-radius: 20px;
+    border: 0px;
+}
